@@ -1,1 +1,1 @@
-# IBM_Data_Analyst_Projects
+# IBM Data Analyst Projects
