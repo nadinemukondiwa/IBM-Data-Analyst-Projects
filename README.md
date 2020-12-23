@@ -38,9 +38,11 @@ Name | Type
 :------------ | :-------------
 review-introduction | Lab
 data-wrangling | Lab
+exploratory-data-analysis | Lab
 
 ## Data Visualization with Python
 Name | Type
 :------------ | :-------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Data Visualization | Lab
+Area Plots, Histograms, and Bar Plots | Lab
+Pie Charts, Box Plots, Scatter Plots, and Bubble Plots | Lab
