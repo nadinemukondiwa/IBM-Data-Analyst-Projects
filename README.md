@@ -32,9 +32,12 @@ Name | Type
 :------------ | :-------------
 Connect to Db2 database on Cloud using Python | Lab
 Access DB2 on Cloud using Python | Lab
+Accessing Databases with SQL Magic | Lab
 Analyzing a real world data-set with SQL and Python | Lab
 Working with a real world data-set using SQL and Python | Lab
-Notebook for Peer Assignment | Assignment
+JOIN Operations | Lab
+Practice Querying Real World Datasets | Lab
+Peer Reviewed Assignment | Assignment
 
 ## Data Analysis with Python
 Name | Type
