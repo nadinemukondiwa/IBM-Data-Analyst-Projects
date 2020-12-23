@@ -3,8 +3,8 @@
 ## Data Visualization and Dashboards with Excel and Cognos
 Name | Type
 :------------ | :-------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Connect to Db2 database on Cloud using Python | Assignment
+
 
 ## Python for Data Science and AI
 Name | Type
@@ -30,8 +30,11 @@ Numpy2D | Lab
 ## Databases and SQL for Data Science
 Name | Type
 :------------ | :-------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Connect to Db2 database on Cloud using Python | Lab
+Access DB2 on Cloud using Python | Lab
+Analyzing a real world data-set with SQL and Python | Lab
+Working with a real world data-set using SQL and Python | Lab
+Notebook for Peer Assignment | Assignment
 
 ## Data Analysis with Python
 Name | Type
