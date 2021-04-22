@@ -1,5 +1,5 @@
 # IBM Data Analyst Labs and Projects 
-
+This repository includes all of the labs and projects I completed for the IBM Data Analyst Professional Certificate.
 ## Data Visualization and Dashboards with Excel and Cognos
 Name | Type
 :------------ | :-------------
